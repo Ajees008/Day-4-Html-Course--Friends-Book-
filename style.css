@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+body{
+    font-family: 'Caveat', cursive;
+    font-weight: bolder;
+}
+.container {
+    position: relative;
+  }
+  
+  .center {
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+  }
+  img { 
+    width: 100%;
+    height: 300vh;
+    opacity: 0.5;
+  }
+  #TitleName{
+    font-weight: lighter;
+    color: rgb(46, 231, 178);
+  }
